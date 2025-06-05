@@ -18,7 +18,7 @@ This is a responsive web page for showcasing **Yu-Gi-Oh!** styled products/cards
 - CSS3 (Flexbox + Media Queries)
 
 ## 📁 File Structure
-
+```
 /exercise-session-3
 │
 ├── index.html                
@@ -28,7 +28,7 @@ This is a responsive web page for showcasing **Yu-Gi-Oh!** styled products/cards
 │   ├── src/                  
 │   └── style/
 │       └── style.css  
-
+```
 
 Copiar
 Editar
